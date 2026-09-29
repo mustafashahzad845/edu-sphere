@@ -1,0 +1,30 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [
+    "nodejs",
+    "express",
+    "student",
+    "management",
+    "bcryptjs",
+    "jsonwebtoken",
+    "jwt",
+    "nodemailer"
+  ],
+  "homepage": "https://github.com/mustafashahzad845/edu-sphere#readme",
+  "bugs": {
+    "url": "https://github.com/mustafashahzad845/edu-sphere/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mustafashahzad845/edu-sphere.git"
+  },
+  "license": "ISC",
+  "author": "Mustafa Shahzad and Sheikh Mohammad",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
